@@ -7,6 +7,4 @@ def main(s,n):
     Returns:
         str: return answer.
     """
-    s="OZODBEK"*n
-    return s
-print(main("OZODBEK",9))
+    return 
